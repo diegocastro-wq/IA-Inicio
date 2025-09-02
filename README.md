@@ -20,3 +20,6 @@ este archivo contiene una hoja de trucos para programar en markdown
 
 ## Archivo 2
 este archivo contiene una hoja de trucos para programar en python
+
+## Archivo 3
+Me llamo Diego y me gusta las mujeres altas y wueritas 
